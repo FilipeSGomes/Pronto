@@ -1,5 +1,11 @@
 import React, { Component } from 'react';
 import Form from "./form";
+/**
+ * 
+ * @author Filipe Gomes
+ * @since 29-05-2019
+ * 
+ */
 
 class Main extends Component {
   render() {
